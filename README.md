@@ -1,1 +1,3 @@
 # site
+
+Edit the site via GitHub.com GUI...
